@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 3xT
-- 👀 I’m interested in Programming (c++,php,js,mysql etc) and yt recording
+- 👀 I’m interested in Programming (mainly c++,php,js,mysql etc) and yt recording (hvh content)
 - 🌱 I’m currently learning android language
 
 <!---
